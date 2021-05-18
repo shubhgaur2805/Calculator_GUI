@@ -1,2 +1,2 @@
 # Calculator_GUI
-Python GUI 
+Calcular GUI using Tkinter Python
